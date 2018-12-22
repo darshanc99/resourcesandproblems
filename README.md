@@ -16,4 +16,4 @@ You will:
   - Get everything for free. Not even single penny to pay.
   
  #
- > Make sure to fork, star and contribute.
+ > Make sure to fork, star and contribute via pull requests.
